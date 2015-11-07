@@ -1,0 +1,3 @@
+[submodule "Frameworks/AFNetworking"]
+	path = Frameworks/AFNetworking
+	url = https://github.com/AFNetworking/AFNetworking.git
